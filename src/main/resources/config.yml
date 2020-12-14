@@ -18,4 +18,4 @@ manga: true
 #优先送出即将过期礼物给此up的直播间,填写其 uid
 upLive:
 #对于进行投币的视频选择是否点赞 , 默认不点赞 [0,1]
-selectLike: 0
+selectLike: 1
